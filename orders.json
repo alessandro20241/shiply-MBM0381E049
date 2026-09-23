@@ -1,0 +1,44 @@
+{
+  "MBM0381E049": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Victor Dieter, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
+    "receiver": "Gerald Steininger, Kaschauerplatz 2, 1220 Wien, Österreich",
+    "price": "24.900 €",
+    "description": "Hersteller: BMW  <br>Typ: E24 M635 CSi <br> Fahrgestelnummer: WBAEE310101051571 <br> Erstzulassung: 05/1985 <br> TÜV: 04/2027 <br> KM laut Vorbesitzer: 114.958 km <br>Leistung: 210 kW (286 PS) <br> Hubraum: 6.500 cm³ <br> Farbe: Weiß <br> <br> Fahrzeug ist makellos. <br> Das Auto ist voll funktionsfähig, Keine Unfälle verzeichnet <br> Bezitser 2 <br> Deutsch Zulassung. Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Gerald Steininger<br> Kaschauerplatz 2<br>1220 Wien<br> Österreich
+<br>Telefon: +43 6769115110",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "23-09-2026",
+    "deliveryDate": "02-10-2026",
+    "pickup": {
+      "street": "Lindenstraat 33",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Deutschland"
+    },
+    "delivery": {
+      "street": "Kaschauerplatz 2",
+      "postal_code": "1220",
+      "city": "Wien",
+      "country": "Österreich"
+    }
+  }
+}
