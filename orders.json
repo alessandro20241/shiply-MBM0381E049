@@ -1,7 +1,7 @@
 {
   "MBM0381E049": {
-    "status": "Versandvorbereitung",
-    "statusClass": "→ 65% Shiply blue bar",
+    "status": "Warten auf Zahlung",
+    "statusClass": "→ 30% orange bar",
     "sender": "Victor Dieter, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
     "receiver": "Gerald Steininger, Kaschauerplatz 2, 1220 Wien, Österreich",
     "price": "24.900 €",
